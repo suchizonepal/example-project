@@ -5,3 +5,4 @@ ruby
 javascript
 rust
 c++
+flex
